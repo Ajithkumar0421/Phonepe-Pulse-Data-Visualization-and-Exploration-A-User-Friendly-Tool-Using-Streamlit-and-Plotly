@@ -1,3 +1,5 @@
+![phonepe_page](https://github.com/Ajithkumar0421/Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly/assets/135503779/754d25eb-84bd-41b7-afba-f7d3d7c8ef18)
+
 **Data Visualization and Exploration A User-Friendly Tool Using Streamlit and Plotly**
 
 The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
